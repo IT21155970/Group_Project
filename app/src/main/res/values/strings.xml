@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Online Job Portal</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_IN">SIGN IN</string>
+    <string name="Job_Seeker">  Job Seeker</string>
+    <string name="Employer">  Job Provider   </string>
+    <string name="view">View</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="check_box">Remember</string>
+    <string name="delete_Profile">Delete Profile</string>
+    <string name="signup_page">SignUp</string>
+    <string name="update_page">Update Profile </string>
+    <string name="view_page">Your Profile Details</string>
+
+</resources>
